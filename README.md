@@ -1,6 +1,6 @@
 # bot_prenotazioni
 
-Bot used in order to book a seat in the UniPr library.
+Bot used to book a seat in the UniPr library.
 
 The idea came during the pandemic where the accesses to the University Library was restricted. Since my friends and I always forgot to book, and the library was systematically full, I created this bot that keeps searching for someone who cancel his/her booking and "stole" the seat as soon as it become free.
 
